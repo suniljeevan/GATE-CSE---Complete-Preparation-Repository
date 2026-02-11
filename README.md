@@ -1,115 +1,113 @@
-🎯 About This Repository
+# 🚀 GATE CSE Complete Preparation Repository
 
-This repo is designed with:
+> A structured, exam-oriented, and PYQ-focused preparation framework for GATE Computer Science & Engineering.
 
-📘 Complete GATE CSE Syllabus Coverage
+---
 
+## 🎯 Vision of This Repository
 
-📊 Mark-wise Subject Priority
+This repository is designed to provide a **systematic, disciplined, and high-scoring approach** to GATE CSE preparation.
 
-🧠 Concept + PYQ Integrated Learning
+It integrates:
 
-📝 6-Month Structured Lesson Plan
+- 📘 Complete Syllabus Coverage  
+- 📊 Mark-Wise Priority Strategy  
+- 🧠 Concept + Previous Year Question (PYQ) Integration  
+- 🗓 6-Month Structured Study Plan  
+- ⏱ 1-Hour Daily Study Model  
+- 📈 Mock Test & Revision Framework  
 
-⏱ 1-Hour Daily Study Model
+This repository can be used by:
+- 🎓 Self-preparing aspirants  
+- 🏫 College GATE coaching batches  
+- 👨‍🏫 Faculty conducting structured GATE programs  
 
-📈 Mock Strategy & Revision Framework
+---
 
-This structure is suitable for:
+# 📚 GATE CSE Exam Structure
 
-Self-preparing students
+| Section | Marks |
+|----------|--------|
+| General Aptitude | 15 |
+| Engineering Mathematics | 15 |
+| Core Computer Science Subjects | 70 |
+| **Total** | **100** |
 
-College GATE coaching batches
+Question Types:
+- MCQ
+- MSQ
+- NAT (Numerical Answer Type)
 
-Faculty conducting structured GATE training
+---
 
-📚 GATE CSE Syllabus Coverage
-🟢 General Aptitude (15 Marks)
+# 📖 Syllabus Coverage
 
-Quantitative Aptitude
+## 🟢 Engineering Mathematics (15 Marks)
+- Discrete Mathematics  
+- Linear Algebra  
+- Calculus  
+- Probability & Statistics  
 
-Verbal Ability
+## 🟢 Core Subjects (70 Marks)
 
-Logical Reasoning
+| Subject | Expected Weightage |
+|----------|--------------------|
+| Programming & Data Structures | 10–12 |
+| Algorithms | 10–13 |
+| Computer Organization & Architecture | 8–10 |
+| Operating Systems | 8–10 |
+| Databases (DBMS) | 7–8 |
+| Computer Networks | 7–8 |
+| Theory of Computation | 6–8 |
+| Compiler Design | 4–6 |
+| Digital Logic | 4–6 |
 
-🟢 Engineering Mathematics (15 Marks)
+## 🟢 General Aptitude (15 Marks)
+- Quantitative Aptitude  
+- Verbal Ability  
+- Logical Reasoning  
 
-Discrete Mathematics
+---
 
-Linear Algebra
+# 🗓 6-Month Structured Preparation Plan
 
-Calculus
+### 🔹 Phase 1 – Foundation (Weeks 1–8)
+- Mathematics
+- Data Structures
+- Algorithms
 
-Probability & Statistics
+### 🔹 Phase 2 – Core Systems (Weeks 9–16)
+- COA
+- OS
+- DBMS
+- TOC
+- Compiler
+- Digital Logic
 
-🟢 Core Subjects (70 Marks)
-Subject	Expected Marks
-Programming & Data Structures	10–12
-Algorithms	10–13
-Computer Organization	8–10
-Operating Systems	8–10
-Databases	7–8
-Computer Networks	7–8
-Theory of Computation	6–8
-Compiler Design	4–6
-Digital Logic	4–6
-🗓 6-Month Structured Study Plan
-Phase 1 – Foundation (Weeks 1–8)
+### 🔹 Phase 3 – Networks & Aptitude (Weeks 17–20)
+- Computer Networks
+- General Aptitude
 
-Discrete Mathematics
+### 🔹 Phase 4 – Revision & Mock (Weeks 21–24)
+- Subject-wise revision
+- Full-length mock tests
+- Weak area correction
+- Formula sheet revision
 
-Linear Algebra
+---
 
-Probability
+# ⏱ 1-Hour Daily Study Model
 
-Data Structures
+Designed for working professionals and college students.
 
-Algorithms
+- 10 min → Formula / Concept Revision  
+- 25 min → Core Concept Learning  
+- 20 min → PYQ Solving  
+- 5 min → Summary + Practice Assignment  
 
-Phase 2 – Core Systems (Weeks 9–16)
+Consistency > Intensity.
 
-Computer Organization
+---
 
-Operating Systems
+# 📂 Repository Structure
 
-Digital Logic
-
-Compiler Design
-
-TOC
-
-Databases
-
-Phase 3 – Networks & Aptitude (Weeks 17–20)
-
-Computer Networks
-
-General Aptitude
-
-Phase 4 – Mock & Revision (Weeks 21–24)
-
-Subject-wise revision
-
-Full-length mocks
-
-Weak-area improvement
-
-⏱ 1-Hour Daily Study Model
-
-10 min – Formula / Concept Revision
-
-25 min – Core Concept
-
-20 min – PYQ Solving
-
-5 min – Summary + Practice Assignment
-
-📈 Target Score Strategy
-Section	Target Score
-Maths + Aptitude	25+
-DS + Algo	18+
-OS + COA	18+
-DB + CN	15+
-TOC + Compiler + DL	10+
-
-🎯 Target Score: 65+ for Top IITs / PSUs
