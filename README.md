@@ -107,7 +107,76 @@ Designed for working professionals and college students.
 
 Consistency > Intensity.
 
-SunilJeevan.
+
+Each folder contains:
+- Concept Notes
+- PYQ Discussions
+- Practice Problems
+- Revision Material
+
+---
+
+# 📌 How to Use This Repository
+
+### Step 1️⃣ – Follow the Structured Order
+Do NOT jump randomly between subjects. Follow the 6-month roadmap.
+
+### Step 2️⃣ – Study + Solve PYQs Immediately
+After learning a topic:
+- Solve minimum 20–30 PYQs.
+- Maintain an **Error Notebook**.
+
+### Step 3️⃣ – Weekly Self-Test
+Every week:
+- Take a timed sectional test.
+- Analyze mistakes deeply.
+
+### Step 4️⃣ – Monthly Full-Length Mock
+After every 4 weeks:
+- Attempt one full mock.
+- Track progress.
+
+### Step 5️⃣ – Final 2 Months Rule
+- Revision > New Topics  
+- Focus on weak areas  
+- Solve previous 25 years PYQs again  
+
+---
+
+# 📈 Target Score Strategy
+
+| Area | Target Score |
+|-------|-------------|
+| Maths + Aptitude | 25+ |
+| DS + Algo | 18+ |
+| OS + COA | 18+ |
+| DBMS + CN | 15+ |
+| TOC + Compiler + DL | 10+ |
+
+🎯 Target: **65+ for IITs / Top 500 Rank / PSUs**
+
+---
+
+# 🧠 Preparation Philosophy
+
+✔ Concepts first, shortcuts later  
+✔ PYQs are the most important resource  
+✔ Consistency beats motivation  
+✔ Revision is the real key to rank  
+
+---
+
+# 👨‍🏫 Maintainer
+
+**Sunil Kumar Sahoo**  
+Java Backend | Microservices | DevOps | Educator  
+
+This repository is built with a teaching-first mindset to help serious aspirants achieve structured success in GATE CSE.
+
+---
+
+⭐ If you find this repository useful, consider starring it.
+
 
 
 
